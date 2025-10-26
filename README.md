@@ -15,12 +15,7 @@
 
 # Projeto podcast gerado por I.A.s
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado. Só dar play no reprodutor de som abaixo:
-
-<audio controls>
-  <source src="https://raw.githubusercontent.com/KevynFirst/podcast-IA/main/Podcast - Por que ser um analista de dados.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado. Para ver o resultado dos prompts e de como ficou o podcast, só [clicar aqui](https://drive.google.com/drive/folders/1ptbsHyEkOVEU4ZHXlNNVeCUoP9KR9Z0i?usp=sharing) 👈
 
  <br>
  <br>
