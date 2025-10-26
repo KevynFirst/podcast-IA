@@ -18,7 +18,7 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado. Só dar play no reprodutor de som abaixo:
 
 <audio controls>
-  <source src="Podcast - Por que ser um analista de dados.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/KevynFirst/podcast-IA/main/Podcast - Por que ser um analista de dados.mp3" type="audio/mpeg">
   Seu navegador não suporta o elemento de áudio.
 </audio>
 
